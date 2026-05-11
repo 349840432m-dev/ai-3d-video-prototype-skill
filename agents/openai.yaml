@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 3D/视频原型"
+  short_description: "把概念图转成 3D 交互原型或 Seedance 视频"
+  default_prompt: "Use $ai-3d-interactive-app to turn this idea into either a Hunyuan3D interactive 3D prototype or a Seedance 2.0 video."
