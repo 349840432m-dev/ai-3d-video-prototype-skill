@@ -143,6 +143,10 @@ See [`SKILL.md`](./SKILL.md) for build dependencies, the texture pipeline, and t
 - High-poly meshes may overwhelm browser rendering and should be decimated or retopologized.
 - Seedance is suited to video delivery; choose the 3D path when reusable geometry matters.
 
+## 作者网站 / Websites
+
+[DailyCited](https://dailycited.com/) · [ShortDramaWords](https://shortdramawords.com/)
+
 ## License
 
 本仓库暂未包含许可证文件。使用或分发前，请先确认项目及所调用模型、资产和依赖的授权条款。
